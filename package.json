@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/Acostan13/forkify/issues"
   },
-  "homepage": "https://github.com/Acostan13/forkify#readme",
+  "homepage": "https://acostan13.github.io/forkify/",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
